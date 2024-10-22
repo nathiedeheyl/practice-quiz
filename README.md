@@ -1,165 +1,91 @@
-# Paint & Sip with your friends
-## A blog about painting and making artsy friends
-
-![Mockup of live site]()
-
-[Preview the website by clicking here]()
-
-## Table of contents
-
-1. [General]()
-    - [Project description]()  
-    - [Purpose of the project]()
-2. [UX]()
-    - [User demographic]()
-    - [General User goals]()
-    - [General User expectations]()
-    - [User stories]()
-        - [For the User]()
-        - [For the Site owner]()
-3. [Design]()
-    - [Fonts]()
-    - [Colors and Contrast]()
-4. [Features]()
-5. [Possible future features]()
-6. [Languages]()
-7. [Technologies]()
-8. [Testing]()
-    - [Manual testing checklist]()
-    - [Bugs]()
-9. [Deployment]()
-10. [Credits]()
-    - [Media]()
-    - [Resources]()
-11. [Changelog]()
-    - [Version 1.0.0 (Initial)]()
+# Practice Quiz
+## A fun and interactive quiz to test your knowledge!
 
 
 ## General
 
 ### Project description
 
-
-<details>
-<summary>Wireframes</summary>
-
-<details>
-<summary>Wireframes for mobile devices</summary>
-
-![Wireframe for mobile devices]()
-
-</details>
-<details>
-<summary>Wireframes for tablet devices</summary>
-
-![Wireframe for tablet devices]()
-
-</details>
-<details>
-<summary>Wireframes for desktops</summary>
-
-![Wireframe for desktop]()
-
-</details>
-</details>
+This project is a simple interactive quiz that allows users to test their knowledge on various topics. It features multiple-choice questions with immediate feedback and options to navigate through questions.
 
 ### Purpose of the project
 
+The purpose of this project is twofold: to create a fun and engaging way for users to learn and test their knowledge through quizzes, providing an enjoyable user experience with instant feedback on their answers, while also allowing me to practice and enhance my JavaScript skills following a YouTube tutorial.
 
 ## UX 
 
-### User demographic or: Who will generally be using the website? 
+### User demographic 
 
-+ 
+- Users who enjoy quizzes and want to test their knowledge on various topics.
+- Individuals looking for a fun and educational activity.
 
 ### General User goals 
 
-+ 
+- To take quizzes and receive immediate feedback on answers.
+- To navigate easily between questions and have the option to restart the quiz.
 
-### General User expectations or: What do the target users need from the website?  
+### General User expectations 
 
-+ 
+- An intuitive interface for taking quizzes.
+- Clear feedback on whether answers are correct or incorrect.
+- An option to restart the quiz after completion.
 
 ### User stories 
 
 #### As a User: 
 
-+ 
+- I want to answer quiz questions and know immediately if I'm correct or not.
+- I want to be able to restart the quiz easily.
 
 #### As the Site owner:
 
-+ 
+- I want to provide a user-friendly quiz experience that keeps users engaged.
 
 ## Design 
 
 ### Fonts
 
+- Arial, Helvetica, sans-serif for clean and readable text.
 
 ### Colors and Contrast 
 
+- A color scheme that uses hues to indicate correct and incorrect answers.
 
 ## Features 
 
-+ 
+- Multiple-choice questions.
+- Immediate feedback on answers.
+- Navigation to the next question or restart the quiz.
 
 ## Possible future features 
 
-+ 
+- A timer for each question.
 
 ## Languages 
 
-+ 
+- HTML
+- CSS
+- JavaScript
 
 ## Technologies 
 
-+ Github for repository 
-+ Gitpod IDE
-+ Chrome Dev Tools 
-+ Balsamiq for Wireframes 
-+ Flaticon for icons 
-+ Favicon for creation of favicon with flaticon icon 
-+ Imagify for image optimisation 
-+ Page Speed Insights for accessibility requirements 
-+ W3C for HTML code validation 
-+ W3C for CSS code validation 
-
-## Testing 
-
-+ Throughout the workflow I have used the recommended [Link missing]().
-
-### Manual testing checklist
-
-
-
-### Bugs
-
-+ 
-
-## Deployment 
-
-The site was deployed to GitHub Pages. The steps to deploy are as follows:
-
-- In the [GitHub repository](https://github.com/nathiedeheyl/paint-and-sip-friends), navigate to the Settings tab.
-- Under the heading "Code and automation", select "Pages".
-- From the Build and deployment section Branch drop-down menu, select the **Main** Branch and the /root folder, then click "Save".
-- Refresh the page. Upon success you will be notified. 
-
-[View the live site here](https://nathiedeheyl.github.io/paint-and-sip-friends)
+- Github for repository 
+- Gitpod IDE
+- Chrome Dev Tools 
+- Flaticon for icons 
+- Favicon for creation of favicon with flaticon icon 
 
 ## Credits
 
 ### Media
 
-+ responsive live site mockup: https://ui.dev/amiresponsive 
-+ favicon: <a href="https://www.flaticon.com/free-icons/quiz" title="quiz icons">Quiz icons created by Freepik - Flaticon</a> and https://favicon.io/favicon-converter/ 
-+ 
+- Responsive live site mockup: https://ui.dev/amiresponsive 
+- Favicon: <a href="https://www.flaticon.com/free-icons/quiz" title="quiz icons">Quiz icons created by Freepik - Flaticon</a> and https://favicon.io/favicon-converter/ 
 
-## Ressources 
+## Resources 
 
+- YouTube walkthrough tutorial: https://www.youtube.com/watch?v=riDzcEQbX6k
 
+## Acknowledgment
 
-## Changelog 
-
-### Version 1.0.0 (Initial)
-
-+ 
+- Original code: [JavaScript Quiz App](https://github.com/WebDevSimplified/JavaScript-Quiz-App)
