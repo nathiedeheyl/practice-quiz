@@ -34,6 +34,7 @@ body.wrong {
     max-width: 80%;
     background-color: white;
     border-radius: 5px;
+    padding: 10px;
     box-shadow: 0 0 10px 2px;
 }
 
@@ -44,7 +45,6 @@ body.wrong {
     margin: 20px 0;
 }
 
-/* All buttons need margins! */
 .btn {
     --hue: var(--hue-neutral);
     border: 1px solid hsl(var(--hue), 100%, 30%);
@@ -68,7 +68,6 @@ body.wrong {
     --hue: var(--hue-wrong);
 }
 
-/* Walkthrough doesn't add any margins, but margins appear on display that are missing here */
 .start-btn, .next-btn {
     font-size: 1.5rem;
     font-weight: bold;
