@@ -62,6 +62,11 @@ function setStatusClass(element, correct) {
     }
 }
 
+function clearStatusClass(element) {
+    element.classList.remove('correct')
+    element.classList.remove('wrong')
+}
+
 const questions = [
     {
         question: 'What is 2 + 2', 
