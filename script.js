@@ -79,35 +79,66 @@ function clearStatusClass(element) {
 
 const questions = [
     {
-        question: 'What is 2 + 2', 
+        question: 'What is the capital of France?',
         answers: [
-            { text: '4', correct: true }, 
-            { text: '22', correct: false }
+            { text: 'Berlin', correct: false },
+            { text: 'Madrid', correct: false },
+            { text: 'Paris', correct: true },
+            { text: 'Rome', correct: false }
         ]
     },
     {
-      question: 'Who is the best YouTuber?',
-      answers: [
-        { text: 'Web Dev Simplified', correct: true },
-        { text: 'Traversy Media', correct: true },
-        { text: 'Dev Ed', correct: true },
-        { text: 'Fun Fun Function', correct: true }
-      ]
+        question: 'Which planet is known as the Red Planet?',
+        answers: [
+            { text: 'Earth', correct: false },
+            { text: 'Venus', correct: false },
+            { text: 'Mars', correct: true },
+            { text: 'Jupiter', correct: false }
+        ]
     },
     {
-      question: 'Is web development fun?',
-      answers: [
-        { text: 'Kinda', correct: false },
-        { text: 'YES!!!', correct: true },
-        { text: 'Um no', correct: false },
-        { text: 'IDK', correct: false }
-      ]
+        question: 'Which movie won the Academy Award for Best Picture in 1994?',
+        answers: [
+            { text: 'The Shawshank Redemption', correct: true },
+            { text: 'Pulp Fiction', correct: false },
+            { text: 'Forrest Gump', correct: true },
+            { text: 'Braveheart', correct: false }
+        ]
     },
     {
-      question: 'What is 4 * 2?',
-      answers: [
-        { text: '6', correct: false },
-        { text: '8', correct: true }
-      ]
+        question: 'Who sang the hit song "Thriller"?',
+        answers: [
+            { text: 'Prince', correct: false },
+            { text: 'Michael Jackson', correct: true },
+            { text: 'Madonna', correct: false },
+            { text: 'Whitney Houston', correct: false }
+        ]
+    },
+    {
+        question: 'What is the chemical symbol for water?',
+        answers: [
+            { text: 'H2O', correct: true },
+            { text: 'O2', correct: false },
+            { text: 'CO2', correct: false },
+            { text: 'NaCl', correct: false }
+        ]
+    },
+    {
+        question: 'What is the process by which plants make their own food?',
+        answers: [
+            { text: 'Respiration', correct: false },
+            { text: 'Photosynthesis', correct: true },
+            { text: 'Digestion', correct: false },
+            { text: 'Transpiration', correct: false }
+        ]
+    },
+    {
+        question: 'What is the primary function of a web browser?',
+        answers: [
+            { text: 'To create websites', correct: false },
+            { text: 'To display web pages', correct: true },
+            { text: 'To manage databases', correct: false },
+            { text: 'To write code', correct: false }
+        ]
     }
-]
+];
