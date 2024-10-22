@@ -44,6 +44,7 @@ body.wrong {
     margin: 20px 0;
 }
 
+/* All buttons need margins! */
 .btn {
     --hue: var(--hue-neutral);
     border: 1px solid hsl(var(--hue), 100%, 30%);
